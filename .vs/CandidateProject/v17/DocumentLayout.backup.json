@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\saima\\Downloads\\CandidateProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{90203B59-671A-4911-B1D0-76FC2F003BDF}|CandidateProject\\CandidateProject.csproj|c:\\users\\saima\\downloads\\candidateproject\\candidateproject\\controllers\\cartoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90203B59-671A-4911-B1D0-76FC2F003BDF}|CandidateProject\\CandidateProject.csproj|solutionrelative:candidateproject\\controllers\\cartoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90203B59-671A-4911-B1D0-76FC2F003BDF}|CandidateProject\\CandidateProject.csproj|c:\\users\\saima\\downloads\\candidateproject\\candidateproject\\views\\carton\\addequipment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90203B59-671A-4911-B1D0-76FC2F003BDF}|CandidateProject\\CandidateProject.csproj|solutionrelative:candidateproject\\views\\carton\\addequipment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90203B59-671A-4911-B1D0-76FC2F003BDF}|CandidateProject\\CandidateProject.csproj|c:\\users\\saima\\downloads\\candidateproject\\candidateproject\\viewmodels\\cartondetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90203B59-671A-4911-B1D0-76FC2F003BDF}|CandidateProject\\CandidateProject.csproj|solutionrelative:candidateproject\\viewmodels\\cartondetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90203B59-671A-4911-B1D0-76FC2F003BDF}|CandidateProject\\CandidateProject.csproj|c:\\users\\saima\\downloads\\candidateproject\\candidateproject\\viewmodels\\equipmentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90203B59-671A-4911-B1D0-76FC2F003BDF}|CandidateProject\\CandidateProject.csproj|solutionrelative:candidateproject\\viewmodels\\equipmentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90203B59-671A-4911-B1D0-76FC2F003BDF}|CandidateProject\\CandidateProject.csproj|c:\\users\\saima\\downloads\\candidateproject\\candidateproject\\views\\carton\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90203B59-671A-4911-B1D0-76FC2F003BDF}|CandidateProject\\CandidateProject.csproj|solutionrelative:candidateproject\\views\\carton\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90203B59-671A-4911-B1D0-76FC2F003BDF}|CandidateProject\\CandidateProject.csproj|c:\\users\\saima\\downloads\\candidateproject\\candidateproject\\views\\carton\\viewcartonequipment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90203B59-671A-4911-B1D0-76FC2F003BDF}|CandidateProject\\CandidateProject.csproj|solutionrelative:candidateproject\\views\\carton\\viewcartonequipment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90203B59-671A-4911-B1D0-76FC2F003BDF}|CandidateProject\\CandidateProject.csproj|c:\\users\\saima\\downloads\\candidateproject\\candidateproject\\viewmodels\\addequipmentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90203B59-671A-4911-B1D0-76FC2F003BDF}|CandidateProject\\CandidateProject.csproj|solutionrelative:candidateproject\\viewmodels\\addequipmentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90203B59-671A-4911-B1D0-76FC2F003BDF}|CandidateProject\\CandidateProject.csproj|c:\\users\\saima\\downloads\\candidateproject\\candidateproject\\viewmodels\\cartonviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90203B59-671A-4911-B1D0-76FC2F003BDF}|CandidateProject\\CandidateProject.csproj|solutionrelative:candidateproject\\viewmodels\\cartonviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddEquipment.cshtml",
+              "DocumentMoniker": "C:\\Users\\saima\\Downloads\\CandidateProject\\CandidateProject\\Views\\Carton\\AddEquipment.cshtml",
+              "RelativeDocumentMoniker": "CandidateProject\\Views\\Carton\\AddEquipment.cshtml",
+              "ToolTip": "C:\\Users\\saima\\Downloads\\CandidateProject\\CandidateProject\\Views\\Carton\\AddEquipment.cshtml",
+              "RelativeToolTip": "CandidateProject\\Views\\Carton\\AddEquipment.cshtml",
+              "ViewState": "AgIAACIAAAAAAAAAAAAqwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-09T18:51:20.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EquipmentViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\saima\\Downloads\\CandidateProject\\CandidateProject\\ViewModels\\EquipmentViewModel.cs",
+              "RelativeDocumentMoniker": "CandidateProject\\ViewModels\\EquipmentViewModel.cs",
+              "ToolTip": "C:\\Users\\saima\\Downloads\\CandidateProject\\CandidateProject\\ViewModels\\EquipmentViewModel.cs",
+              "RelativeToolTip": "CandidateProject\\ViewModels\\EquipmentViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T18:49:45.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\saima\\Downloads\\CandidateProject\\CandidateProject\\Views\\Carton\\Index.cshtml",
+              "RelativeDocumentMoniker": "CandidateProject\\Views\\Carton\\Index.cshtml",
+              "ToolTip": "C:\\Users\\saima\\Downloads\\CandidateProject\\CandidateProject\\Views\\Carton\\Index.cshtml",
+              "RelativeToolTip": "CandidateProject\\Views\\Carton\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-09T18:43:56.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CartonViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\saima\\Downloads\\CandidateProject\\CandidateProject\\ViewModels\\CartonViewModel.cs",
+              "RelativeDocumentMoniker": "CandidateProject\\ViewModels\\CartonViewModel.cs",
+              "ToolTip": "C:\\Users\\saima\\Downloads\\CandidateProject\\CandidateProject\\ViewModels\\CartonViewModel.cs",
+              "RelativeToolTip": "CandidateProject\\ViewModels\\CartonViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T18:34:25.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CartonController.cs",
+              "DocumentMoniker": "C:\\Users\\saima\\Downloads\\CandidateProject\\CandidateProject\\Controllers\\CartonController.cs",
+              "RelativeDocumentMoniker": "CandidateProject\\Controllers\\CartonController.cs",
+              "ToolTip": "C:\\Users\\saima\\Downloads\\CandidateProject\\CandidateProject\\Controllers\\CartonController.cs",
+              "RelativeToolTip": "CandidateProject\\Controllers\\CartonController.cs",
+              "ViewState": "AgIAALQAAAAAAAAAAAAAwL0AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T17:50:37.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CartonDetailsViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\saima\\Downloads\\CandidateProject\\CandidateProject\\ViewModels\\CartonDetailsViewModel.cs",
+              "RelativeDocumentMoniker": "CandidateProject\\ViewModels\\CartonDetailsViewModel.cs",
+              "ToolTip": "C:\\Users\\saima\\Downloads\\CandidateProject\\CandidateProject\\ViewModels\\CartonDetailsViewModel.cs",
+              "RelativeToolTip": "CandidateProject\\ViewModels\\CartonDetailsViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T18:50:19.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ViewCartonEquipment.cshtml",
+              "DocumentMoniker": "C:\\Users\\saima\\Downloads\\CandidateProject\\CandidateProject\\Views\\Carton\\ViewCartonEquipment.cshtml",
+              "RelativeDocumentMoniker": "CandidateProject\\Views\\Carton\\ViewCartonEquipment.cshtml",
+              "ToolTip": "C:\\Users\\saima\\Downloads\\CandidateProject\\CandidateProject\\Views\\Carton\\ViewCartonEquipment.cshtml",
+              "RelativeToolTip": "CandidateProject\\Views\\Carton\\ViewCartonEquipment.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-09T18:36:32.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddEquipmentViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\saima\\Downloads\\CandidateProject\\CandidateProject\\ViewModels\\AddEquipmentViewModel.cs",
+              "RelativeDocumentMoniker": "CandidateProject\\ViewModels\\AddEquipmentViewModel.cs",
+              "ToolTip": "C:\\Users\\saima\\Downloads\\CandidateProject\\CandidateProject\\ViewModels\\AddEquipmentViewModel.cs",
+              "RelativeToolTip": "CandidateProject\\ViewModels\\AddEquipmentViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T18:32:53.996Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
